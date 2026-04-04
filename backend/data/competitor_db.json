@@ -1,0 +1,76 @@
+{
+  "source": "Market Intelligence Report Q1 2025",
+  "last_updated": "2025-03-25",
+  "market_data": [
+    {
+      "product": "Industrial Control Valves",
+      "category": "Valves",
+      "top_competitor": "ValveTech Solutions",
+      "competitor_price": 1150,
+      "market_avg": 1180,
+      "market_low": 980,
+      "market_high": 1400,
+      "competitors": {
+        "ValveTech Solutions": {"price": 1150, "reputation": "premium", "delivery_days": 10},
+        "FlowMaster India": {"price": 1050, "reputation": "mid-range", "delivery_days": 14},
+        "QuickValve Pvt Ltd": {"price": 980, "reputation": "budget", "delivery_days": 7}
+      }
+    },
+    {
+      "product": "Hydraulic Pressure Sensors",
+      "category": "Sensors",
+      "top_competitor": "SensorPro India",
+      "competitor_price": 1650,
+      "market_avg": 1700,
+      "market_low": 1400,
+      "market_high": 2000,
+      "competitors": {
+        "SensorPro India": {"price": 1650, "reputation": "premium", "delivery_days": 5},
+        "DataSense Pvt Ltd": {"price": 1500, "reputation": "mid-range", "delivery_days": 8},
+        "QuickSense": {"price": 1400, "reputation": "budget", "delivery_days": 12}
+      }
+    },
+    {
+      "product": "Pneumatic Actuators",
+      "category": "Actuators",
+      "top_competitor": "ActuDrive Systems",
+      "competitor_price": 3000,
+      "market_avg": 3100,
+      "market_low": 2600,
+      "market_high": 3600,
+      "competitors": {
+        "ActuDrive Systems": {"price": 3000, "reputation": "premium", "delivery_days": 12},
+        "PneumaTech India": {"price": 2800, "reputation": "mid-range", "delivery_days": 15},
+        "AirForce Pvt Ltd": {"price": 2600, "reputation": "budget", "delivery_days": 20}
+      }
+    },
+    {
+      "product": "Temperature Control Units",
+      "category": "Controllers",
+      "top_competitor": "ThermoTech Industries",
+      "competitor_price": 4800,
+      "market_avg": 5000,
+      "market_low": 4200,
+      "market_high": 5800,
+      "competitors": {
+        "ThermoTech Industries": {"price": 4800, "reputation": "premium", "delivery_days": 10},
+        "CoolTech Solutions": {"price": 4500, "reputation": "mid-range", "delivery_days": 14},
+        "TempMaster": {"price": 4200, "reputation": "budget", "delivery_days": 18}
+      }
+    },
+    {
+      "product": "Flow Meters",
+      "category": "Measurement",
+      "top_competitor": "FlowDynamics Pvt Ltd",
+      "competitor_price": 2200,
+      "market_avg": 2300,
+      "market_low": 1900,
+      "market_high": 2700,
+      "competitors": {
+        "FlowDynamics Pvt Ltd": {"price": 2200, "reputation": "premium", "delivery_days": 7},
+        "MeterTech India": {"price": 2050, "reputation": "mid-range", "delivery_days": 10},
+        "QuickFlow": {"price": 1900, "reputation": "budget", "delivery_days": 15}
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E001",
+    "from": "rajesh@acmecorp.in",
+    "to": "sales@techflow.in",
+    "subject": "Re: Bulk Valve Order - Special Terms",
+    "date": "2025-03-15",
+    "body": "Hi Team, Following up on our discussion, Acme Corp is looking for 500+ industrial valves with priority delivery within 10 days. We'd appreciate a competitive rate given our long-standing partnership. Our previous order was at ₹1080/unit. We expect similar or better pricing this time. Also, free installation would be a strong deciding factor for us. Looking forward to your quotation. Regards, Rajesh Kumar, Procurement Head, Acme Corp"
+  },
+  {
+    "id": "E002",
+    "from": "procurement@globaltech.com",
+    "to": "sales@techflow.in",
+    "subject": "RFP - Hydraulic Sensors for Manufacturing Line",
+    "date": "2025-03-20",
+    "body": "Dear TechFlow, GlobalTech requires 200 hydraulic pressure sensors for our new manufacturing facility in Pune. Delivery needed within 3 weeks. Budget is approximately ₹1600 per unit. We are evaluating 3 vendors and will select based on price, warranty, and delivery speed. Please submit your formal quotation by March 25th."
+  },
+  {
+    "id": "E003",
+    "from": "manager@techflow.in",
+    "to": "sales@techflow.in",
+    "subject": "Updated Discount Policy - Q2 2025",
+    "date": "2025-03-22",
+    "body": "Team, please note the following policy updates for Q2 2025: 1) All bulk orders (500+ units) now qualify for 5% discount instead of the previous 3%. 2) Premium clients (3+ previous orders) get additional 2% loyalty discount. 3) International orders must include 5% forex buffer. 4) No discounts below 8% margin under any circumstances. These supersede all previous email communications regarding pricing."
+  },
+  {
+    "id": "E004",
+    "from": "sales@techflow.in",
+    "to": "finance@techflow.in",
+    "subject": "Re: Margin Policy Clarification",
+    "date": "2025-02-10",
+    "body": "Hi Finance Team, Just confirming - our minimum margin for valves is 10% and sensors is 12%. For bulk orders above 1000 units, we can go down to 8% margin with manager approval. The old policy of 15% minimum margin is no longer in effect as of January 2025. Please update your systems accordingly."
+  },
+  {
+    "id": "E005",
+    "from": "logistics@techflow.in",
+    "to": "sales@techflow.in",
+    "subject": "Delivery Capability Update",
+    "date": "2025-03-18",
+    "body": "Sales Team, Current delivery capabilities: Valves - 7 business days for orders up to 500 units, 14 days for 500+. Sensors - 5 business days standard. Actuators - 10 business days (imported components). Express delivery available at 15% surcharge. Stock levels are healthy for Q1 orders."
+  }
+]

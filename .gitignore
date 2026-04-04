@@ -1,0 +1,44 @@
+# ─── Python ───────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+.eggs/
+.venv/
+venv/
+env/
+*.log
+
+# ─── Environment / Secrets ────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ─── Auto-generated backend artifacts ─────────────
+backend/faiss_index/
+backend/outputs/
+backend/data/feedback.json
+backend/data/decision_memory.json
+
+# ─── Database files ───────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ─── Frontend ─────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+
+# ─── OS ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ──────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo

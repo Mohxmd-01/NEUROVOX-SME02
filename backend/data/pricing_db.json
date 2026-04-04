@@ -1,0 +1,76 @@
+{
+  "company_name": "TechFlow Industries Pvt Ltd",
+  "last_updated": "2025-03-28",
+  "products": [
+    {
+      "id": "P001",
+      "name": "Industrial Control Valves",
+      "category": "Valves",
+      "cost_per_unit": 850,
+      "base_price": 1200,
+      "min_margin_percent": 12,
+      "available_stock": 2500,
+      "bulk_tiers": [
+        {"min_qty": 100, "discount_percent": 3},
+        {"min_qty": 500, "discount_percent": 5},
+        {"min_qty": 1000, "discount_percent": 8}
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Hydraulic Pressure Sensors",
+      "category": "Sensors",
+      "cost_per_unit": 1200,
+      "base_price": 1750,
+      "min_margin_percent": 15,
+      "available_stock": 800,
+      "bulk_tiers": [
+        {"min_qty": 50, "discount_percent": 2},
+        {"min_qty": 200, "discount_percent": 5},
+        {"min_qty": 500, "discount_percent": 7}
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "Pneumatic Actuators",
+      "category": "Actuators",
+      "cost_per_unit": 2100,
+      "base_price": 3200,
+      "min_margin_percent": 10,
+      "available_stock": 400,
+      "bulk_tiers": [
+        {"min_qty": 25, "discount_percent": 2},
+        {"min_qty": 100, "discount_percent": 4},
+        {"min_qty": 250, "discount_percent": 6}
+      ]
+    },
+    {
+      "id": "P004",
+      "name": "Temperature Control Units",
+      "category": "Controllers",
+      "cost_per_unit": 3500,
+      "base_price": 5200,
+      "min_margin_percent": 18,
+      "available_stock": 150,
+      "bulk_tiers": [
+        {"min_qty": 10, "discount_percent": 3},
+        {"min_qty": 50, "discount_percent": 6},
+        {"min_qty": 100, "discount_percent": 9}
+      ]
+    },
+    {
+      "id": "P005",
+      "name": "Flow Meters",
+      "category": "Measurement",
+      "cost_per_unit": 1650,
+      "base_price": 2400,
+      "min_margin_percent": 14,
+      "available_stock": 600,
+      "bulk_tiers": [
+        {"min_qty": 30, "discount_percent": 2},
+        {"min_qty": 150, "discount_percent": 5},
+        {"min_qty": 300, "discount_percent": 7}
+      ]
+    }
+  ]
+}
